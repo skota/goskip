@@ -12,7 +12,7 @@ App is now runnng on  [`localhost:4000`](http://localhost:4000).
 Use curl or Postman to make api calls to app for example:
 
 ```
-http://localhost:4000/api/v1/temperature?type=fahrenheit&degrees=35.0
+http://localhost:4000/api/v1/temperature?type=fahrenheit&degrees=90.0
 ```
 
 returns this response
